@@ -7,3 +7,6 @@ All the libraries required in this course  are listed in the `requirements.txt`	
 ```bash 
 pip install -r requirements.txt
 ```
+
+## Overview
+![](images/RAG-overview.png)
