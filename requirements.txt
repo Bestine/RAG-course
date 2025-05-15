@@ -4,3 +4,4 @@ langchainhub
 chromadb
 langchain
 langchain_community
+openai
