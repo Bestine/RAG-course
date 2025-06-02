@@ -7,3 +7,4 @@ langchain_community
 openai
 python-dotenv
 chromadb
+ollama
