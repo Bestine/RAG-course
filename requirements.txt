@@ -8,3 +8,9 @@ openai
 python-dotenv
 chromadb
 ollama
+torch
+transformers
+sentence-transformers
+datasets
+faiss-cpu
+hf_xet
