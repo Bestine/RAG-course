@@ -1,5 +1,11 @@
 # RAG-course
 
+Lets list the courses 
+- LLM Zoomcamp 
+- AI and ML scholar
+- RAG course - Langchain
+- MCP Course - Huggingface 
+
 ## Set Up a Virtual Environment 
 
 ## Install the dependencies 
